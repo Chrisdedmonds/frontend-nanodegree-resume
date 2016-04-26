@@ -1,4 +1,3 @@
-// $("#main").append("Chris Edmonds");
 var name = 'Chris Edmonds';
 var role = 'Web Developer';
 
